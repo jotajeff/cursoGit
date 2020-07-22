@@ -12,17 +12,25 @@
  
  <div class="container">
 
+
+ <div class="card">
+
+ <div class="card-header">GIT</div>
+
+<div class="card-body">
 <?php
 
 echo "<h1>Hello World !</h1>";
-
 
 echo "<strong>Git </strong>";
 
 echo "<p>Learning Git </p>";
 
-
 ?>
+
+</dvi>
+
+</div>
 
 </div>
    
