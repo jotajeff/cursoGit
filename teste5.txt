@@ -1,1 +1,3 @@
-arquivo de teste para a branch master do curso de Git School of Net
+ arquivo de teste para a branch master do curso de Git School of Net!
+
+jotajeff@gmail.com
